@@ -1,0 +1,2 @@
+D:\c++\AT2\Debug\AT2.exe
+D:\c++\AT2\Debug\AT2.pdb

@@ -1,0 +1,3 @@
+﻿  t3.cpp
+D:\c++\GraphT3\t3.cpp(5,11): warning C4101: “p”: 未引用的局部变量
+  GraphT3.vcxproj -> D:\c++\GraphT3\Debug\GraphT3.exe

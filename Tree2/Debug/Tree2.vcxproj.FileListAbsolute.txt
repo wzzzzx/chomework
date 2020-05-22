@@ -1,0 +1,2 @@
+D:\c++\Tree2\Debug\Tree2.exe
+D:\c++\Tree2\Debug\Tree2.pdb

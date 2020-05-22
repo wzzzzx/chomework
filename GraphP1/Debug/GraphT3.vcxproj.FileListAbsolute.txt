@@ -1,0 +1,2 @@
+D:\c++\GraphT3\Debug\GraphT3.exe
+D:\c++\GraphT3\Debug\GraphT3.pdb
