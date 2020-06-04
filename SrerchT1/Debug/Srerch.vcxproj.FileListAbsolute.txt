@@ -1,0 +1,2 @@
+D:\c++\chomework\Srerch\Debug\SrerchT1.exe
+D:\c++\chomework\Srerch\Debug\SrerchT1.pdb
